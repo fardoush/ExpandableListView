@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Expandable ListView</string>
+
+    <string-array name="poetName">
+        <item>কাজী নজরুল ইসলাম</item>
+        <item>রবীন্দ্রনাথ ঠাকুর</item>
+        <item>শামসুর রাহমান</item>
+
+        <item>সুকান্ত ভট্টাচার্য</item>
+        <item>হুমায়ূন আজাদ</item>
+
+
+    </string-array>
+
+    <string-array name="child_poet">
+        <item>জন্ম সাল : মে ২৪, ১৮৯৯ \n মৃত্যু সাল : আগস্ট ২৯, ১৯৭৬</item>
+        <item>
+            জন্ম সাল : ১৮৬১ \n মৃত্যু সাল : ১৯৪১
+        </item>
+        <item>
+            জন্ম সাল : ১৮৬১ \n মৃত্যু সাল : ১৯৪১
+        </item>
+
+        <item>
+            জন্ম সাল : ১৫ই আগস্ট, ১৯২৬ \n মৃত্যু সাল :১৩ই মে, ১৯৪৭
+        </item>
+        <item>জন্ম সাল : ২৮শে এপ্রিল, ১৯৪৭ (১৪ই বৈশাখ, ১৩৫৪ বঙ্গাব্দ
+            \n মৃত্যু সাল : ১২ আগস্ট,
+        </item>
+
+
+    </string-array>
+</resources>
